@@ -5,4 +5,4 @@ To play start with\
 on the first terminal.\
 Then on a different terminal put\
     *./my_navy **PID** ex_files/pos2*\
-HAVE FUN!\
+HAVE FUN!
